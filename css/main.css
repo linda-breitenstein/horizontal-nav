@@ -32,9 +32,9 @@ a:hover {
 
 li {
   display: inline-block;
-  margin: .5em 1em;
+  margin: .5em .7em;
   max-width: inherit;
-  padding: 1em;
+  padding: .5em;
   color: white;
   border-radius: .8px;
   align-items: center;
